@@ -1,5 +1,0 @@
-torch>=1.13.0
-numpy>=1.21.0
-gym>=0.21.0
-easycarla
-tensorboard>=2.10.0

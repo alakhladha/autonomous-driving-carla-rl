@@ -12,14 +12,7 @@
 <!-- Option 1: Upload the video to this repo and replace the path below -->
 <!-- Option 2: Upload to YouTube and paste the link below -->
 
-> 🎬 **[Watch Demo Video](assets/demo.mp4)** ← *Replace with your video link or embed*
-
-```
-To embed a YouTube video, replace this block with:
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-To use a local video file, place it in the assets/ folder and link it above.
-```
+> 🎬 **[Watch Demo Video](https://youtu.be/9JXO74jnrcs?si=J0Smwxali-v1Rj4f)**
 
 ---
 
